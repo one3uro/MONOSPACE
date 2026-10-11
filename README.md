@@ -16,7 +16,7 @@ Because I completed this project right before entering college, I uploaded the c
 
 ## Tech Stack
 
-* **Frontend:** HTML5, CSS3, JavaScript (ES6)
+* **Frontend:** HTML5, CSS, JavaScript 
 * **Backend:** PHP
 * **Database:** SQL
 
